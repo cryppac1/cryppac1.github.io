@@ -190,7 +190,7 @@ h2{
 	color:white;
 	font-size: 25px;
 	margin-bottom: 20px;
-	margin-top: 20px;
+	margin-top: 10px;
 }
 
 .list-style li{
@@ -271,4 +271,50 @@ footer{
 .end{
 	font-family: 'Courier New', Courier, monospace;
 	font-size: small;
+}
+.audits{
+	font-size: 20px;
+    color: white;
+	font-weight: bold;
+    padding-top: 20px;
+	padding-left: 8%;
+	padding-right:8% ;
+	line-height: 0.8cm;
+	font-size: 20px;
+}
+
+.listaudit{
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top: 20px;
+	line-height: 0.8cm;
+
+}
+.pointer{
+	background-color: black;
+}
+
+.chest{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #f9004d;
+}
+
+.points{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	
+}
+.log{
+	height: 100px;
+	width: 100px;
+	
+	border-radius: 50px;
+}
+i:hover{
+
+	color: aqua;
 }
